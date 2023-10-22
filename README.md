@@ -1,3 +1,4 @@
 # javafestival
-for javafestival codes  
+스마트인재개발원 자바페스티벌 문제 코드  
+해당 코드는 정답이 아닙니다. 참고만 하세요.  
 파일 제목 숫자 == pdf 파일 페이지 번호
